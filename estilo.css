@@ -1,7 +1,7 @@
 nav {
     display: flex;
     justify-content: center; /* Centra los elementos horizontalmente */
-    background-color: #ee90bf; /* Color de fondo de la barra de navegación */
+    background-color: #D9A05B; /* Color de fondo de la barra de navegación */
     padding: 10px 0; /* Espaciado interno para separar los enlaces del borde */
 }
 
@@ -18,7 +18,7 @@ nav ul li {
 
 nav ul li a {
     text-decoration: none;
-    color: white; /* Color de texto para que resalte sobre el fondo oscuro */
+    color: white; /* COLOR DEL TEXTO */
     padding: 10px;
     border-radius: 5px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
@@ -26,22 +26,50 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    background-color: #9fa0ff; /* Cambia el color de fondo al pasar el ratón */
-    color: rgb(9, 5, 14);
+    background-color: #ddb88b; /* CAMBIA COLOR AL PASAR RATON */
+    color: rgb(255, 255, 255);
 }
 
-#imagen1 {
-    size: 50cm; 
+/* CENTRADO DE IMAGENES */
+#gatocomiendo {
+
+        display: block; /* Asegura que la imagen se comporte como un bloque */
+        margin-left: auto; /* Centra la imagen horizontalmente */
+        margin-right: auto; /* Centra la imagen horizontalmente */
+        width: 500px; /* Anchura de la imagen alimentotoxico */
+}
+    
+
+#gatocomiendocroquetas {
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto; 
+    width: 300px; 
 }
 
-#imagen2 {
-    size: 50cm;
+#alimentotoxico {
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto; 
+    width: 500px; 
 }
 
-#imagen3 {
-    size: 50cm;
+#gatotomandoagua {
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto; 
+    width: 500px; 
 }
 
-#imagen4 {
-    size: 50cm;
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+
+h1 {
+    text-align: center; /* CENTRA TEXTO A MITAD DE PAGINA */
+    color: #629772;
+}
+
+p {
+    color: rgb(72, 100, 100);
 }
