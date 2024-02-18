@@ -31,17 +31,17 @@ nav ul li a:hover {
 }
 
 #imagen1 {
-    width: 300px; /* Ancho de la imagen1 */
+    size: 50cm; 
 }
 
 #imagen2 {
-    width: 200px; /* Ancho de la imagen2 */
+    size: 50cm;
 }
 
 #imagen3 {
-    width: 100px; /* Ancho de la imagen3 */
+    size: 50cm;
 }
 
 #imagen4 {
-    width: 200px; /* Ancho de la imagen4 */
+    size: 50cm;
 }
