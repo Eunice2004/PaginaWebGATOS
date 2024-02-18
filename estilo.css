@@ -1,0 +1,32 @@
+nav {
+    display: flex;
+    justify-content: center; /* Centra los elementos horizontalmente */
+    background-color: #ee90bf; /* Color de fondo de la barra de navegación */
+    padding: 10px 0; /* Espaciado interno para separar los enlaces del borde */
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+
+nav ul li {
+    margin-right: 150px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white; /* Color de texto para que resalte sobre el fondo oscuro */
+    padding: 10px;
+    border-radius: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    font-weight: 500;
+}
+
+nav ul li a:hover {
+    background-color: #9fa0ff; /* Cambia el color de fondo al pasar el ratón */
+    color: rgb(9, 5, 14);
+}
+
