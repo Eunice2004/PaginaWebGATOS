@@ -105,6 +105,10 @@ p {
 #texto2{
     text-align: center; 
 }
+
+#tabla{
+    text-align: center; 
+}
 #gatolamiendose {
     display: block; 
     margin-left: auto; 
@@ -200,3 +204,23 @@ p {
     margin-right: auto; 
     width: 500px; 
 }
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif ;
+    font-size: 12px;
+    color: #816b4d;
+}
+
+th, td {
+    padding: 5px;
+    border-bottom: 0.5px solid #aa998b;
+    text-align: center;
+}
+
+th {
+    background-color: #f3ebe3;
+}
+
+
