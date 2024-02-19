@@ -90,11 +90,15 @@ p {
     color: #d48387;
 }
 
-#hcomportamientos {
+#hcuidados {
     text-align: center; /* CENTRA TEXTO A MITAD DE PAGINA */
     color: #6ea8b9;
 }
 
+#hcomportamientos {
+    text-align: center; /* CENTRA TEXTO A MITAD DE PAGINA */
+    color: #9b83d4;
+}
 #texto1{
     text-align: center; 
 }
@@ -161,4 +165,38 @@ p {
     margin-left: auto; 
     margin-right: auto; 
     width: 900px; 
+}
+
+#gatoaseo {
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto; 
+    width: 500px; 
+}
+
+#gatoarenero {
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto; 
+    width: 650px; 
+}
+#gatoveterinario {
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto; 
+    width: 500px; 
+}
+
+#gatojugando {
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto; 
+    width: 500px; 
+}
+
+#gatoplaca {
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto; 
+    width: 500px; 
 }
