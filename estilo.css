@@ -61,15 +61,28 @@ nav ul li a:hover {
     width: 500px; 
 }
 
+#gatoesfinje {
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto; 
+    width: 700px; 
+}
+
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
 }
 
-h1 {
+#halimentacion {
     text-align: center; /* CENTRA TEXTO A MITAD DE PAGINA */
     color: #629772;
 }
 
-p {
-    color: rgb(72, 100, 100);
+#hinicio {
+    text-align: center; /* CENTRA TEXTO A MITAD DE PAGINA */
+    color: #a57d4c;
 }
+p {
+    color: rgb(60, 71, 71);
+}
+
+
