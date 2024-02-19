@@ -85,4 +85,59 @@ p {
     color: rgb(60, 71, 71);
 }
 
+#hrazas {
+    text-align: center; /* CENTRA TEXTO A MITAD DE PAGINA */
+    color: #d48387;
+}
 
+#texto1{
+    text-align: center; 
+}
+
+#gatolamiendose {
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto; 
+    width: 500px; 
+}
+
+#siames {
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto; 
+    width: 400px; 
+}
+
+#mainecoon {
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto; 
+    width: 400px; 
+}
+#persa {
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto; 
+    width: 400px; 
+}
+
+#bengali {
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto; 
+    width: 400px; 
+}
+
+#sphynx {
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto; 
+    width: 400px; 
+}
+
+#ragdoll {
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto; 
+    width: 400px; 
+}
