@@ -1,8 +1,8 @@
 nav {
     display: flex;
-    justify-content: center; /* Centra los elementos horizontalmente */
-    background-color: #D9A05B; /* Color de fondo de la barra de navegación */
-    padding: 10px 0; /* Espaciado interno para separar los enlaces del borde */
+    justify-content: center; 
+    background-color: #D9A05B; 
+    padding: 10px 0;
 }
 
 nav ul {
